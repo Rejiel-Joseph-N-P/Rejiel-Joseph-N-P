@@ -30,5 +30,5 @@ I build self-hosted AI systems, run local LLM infrastructure, and ship full-stac
 
 Happy to chat about local LLMs, self-hosted infrastructure, and building AI products.
 
-- 💼 LinkedIn: https://www.linkedin.com/in/rejiel-joseph-n-p-/
+- 💼 LinkedIn: https://www.linkedin.com/in/rejiel-joseph-n-p-6b9365383/
 - 💬 Telegram: https://t.me/Rejieljosephnp
